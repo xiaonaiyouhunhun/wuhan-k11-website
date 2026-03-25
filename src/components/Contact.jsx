@@ -5,7 +5,7 @@ const Contact = () => {
     {
       icon: '📍',
       title: '地址',
-      content: '武汉市江岸区香港路8号',
+      content: '武汉关山大道',
       color: 'bg-red-100 text-red-600'
     },
     {
